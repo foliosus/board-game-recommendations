@@ -1,5 +1,5 @@
 # Setup
 
-    pip install pandas numpy requests
+    pip install flask pandas numpy requests
     python server.py
-    open http://http://127.0.0.1:5000/
+    open http://127.0.0.1:5000/
